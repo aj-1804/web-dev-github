@@ -1,0 +1,23 @@
+[33mcommit fc84fc3bf67d5ec7f0c9a7b71b112b2e27833d63[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Amit Jha <amitkj.1804@gmail.com>
+Date:   Thu Dec 23 10:42:34 2021 +0530
+
+    changedd text.txt
+
+[33mcommit 68f3180e9067b39d01870a1f0e299fa29df6f24b[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Amit Jha <amitkj.1804@gmail.com>
+Date:   Thu Dec 23 10:33:36 2021 +0530
+
+    added new feature
+
+[33mcommit 6e0fa24769d5d0db890982d0d55f7b8550fbda3c[m
+Author: Amit Jha <amitkj.1804@gmail.com>
+Date:   Thu Dec 23 10:14:05 2021 +0530
+
+    changed text.txt and added second-commit.txt
+
+[33mcommit 60a6a8bf1b49d0afd611a7f33eb472e57c90778c[m
+Author: Amit Jha <amitkj.1804@gmail.com>
+Date:   Thu Dec 23 10:02:27 2021 +0530
+
+    added text.txt file
